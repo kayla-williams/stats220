@@ -1,6 +1,6 @@
 # stats220
 
-![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.icegif.com%2Fwelcome-10%2F&psig=AOvVaw2JEx6cCpm9CFpN5CVtx-sw&ust=1709602925269000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLizvqy92YQDFQAAAAAdAAAAABAD)
+![](https://www.icegif.com/wp-content/uploads/2023/03/icegif-1573.gif)
 
 Hi!!! This is the repository I will be using for my projects and coursework for **STATS220** in Semester One this year 😄
 
