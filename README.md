@@ -9,7 +9,7 @@ Hi! This is the repository I will be using as a home for the projects and course
 2. Cool things I make during the semester
 3. An excessive amount of cat photos and gifs 🐱 I love cats so expect to see a *lot* of references to them!
 
-I am a **BHSc/BSc** conjoint student with an interest in biostatistics and epidemiology. I want to become an epidemiologist and data analyst, and in this increasingly digital world I think code will only make this easier and more interesting!
+I am a **BHSc/BSc** conjoint student with an interest in biostatistics and epidemiology. I love data and want to become an epidemiologist! In this increasingly digital world, I think code can be so useful for helping us make sense of data and what we see around us.
 
 ![](https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/002/623/708/datas/medium.gif)
 
