@@ -11,6 +11,8 @@ Hi! This is the repository I will be using as a home for the projects and course
 
 I am a **BHSc/BSc** conjoint student with an interest in biostatistics and epidemiology. I want to become an epidemiologist and data analyst, and in this increasingly digital world I think code will only make this easier and more interesting!
 
+![](https://lh6.googleusercontent.com/hkELy0HST08rb3eBtvfxetMkhtKhbzJ-VO4kJq4auoNOnOnZuyLlWTzKPDIGDJS4ERuceaJfWt4Y4zcnj0aQFv2ZcBMMMTNTBnBFo-H576raz9-0MP1eYSCCxueYHPVoAhXKGkc2=s0)
+
 ## Some more things I love include:
 *(Not in any particular order)*
 * Reading, especially historical fiction
