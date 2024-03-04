@@ -7,12 +7,12 @@ Hi! This is the repository I will be using as a home for the projects and course
 ## Please follow along to witness:
 1. My journey as I learn more about coding! I have some prior experience using R and HTML, but there is always more to learn
 2. Cool things I make during the semester
-3. An excessive amount of cat photos and gifs 🐱 I love cats so expect to see a lot of references to them!
+3. An excessive amount of cat photos and gifs 🐱 I love cats so expect to see a *lot* of references to them!
 
 I am a **BHSc/BSc** conjoint student with an interest in biostatistics and epidemiology. I want to become an epidemiologist and data analyst, and in this increasingly digital world I think code will only make this easier and more interesting!
 
 ## Some more things I love include:
-*(Not in any particular order...)*
+*(Not in any particular order)*
 * Reading, especially historical fiction
 * Trying to beat my PB (personal best) in the gym and rack up my listening minutes on Spotify 🎧
 * Anything to do with fashion, style, and personal expression
