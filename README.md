@@ -18,4 +18,6 @@ I am a **BHSc/BSc** conjoint student with an interest in biostatistics and epide
 * Anything to do with fashion, style, and personal expression
 * My cat and cats in general
 
-I have attached a link to some motivational gifs as future reference both for me and anyone else who may need it during the semester: [Motivational gifs](https://giphy.com/explore/motivational)
+I have attached a link to some [motivational gifs](https://giphy.com/explore/motivational) for myself and anyone else who may need it this semester!
+
+Thank you and enjoy 😊
