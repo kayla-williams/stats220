@@ -17,6 +17,7 @@ I am a **BHSc/BSc** conjoint student with an interest in biostatistics and epide
 *(Not in any particular order)*
 * Reading, especially historical fiction
 * Trying to beat my PB (personal best) in the gym and rack up my listening minutes on Spotify 🎵
+* Disney
 * Anything to do with fashion, style, and personal expression
 * My cat and cats in general
 
