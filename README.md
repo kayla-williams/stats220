@@ -11,7 +11,7 @@ Hi! This is the repository I will be using as a home for the projects and course
 
 I am a **BHSc/BSc** conjoint student with an interest in biostatistics and epidemiology. I want to become an epidemiologist and data analyst, and in this increasingly digital world I think code will only make this easier and more interesting!
 
-![](https://media1.giphy.com/media/xT9C25UNTwfZuk85WP/giphy.gif?cid=6c09b952hrm9t13y07s1pabcebef1o8qwucgd1vo9pvcptxu&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g)
+![](https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/002/623/708/datas/medium.gif)
 
 ## Some more things I love include:
 *(Not in any particular order)*
