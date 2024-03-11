@@ -4,6 +4,7 @@
 
 Hi! This is the repository I will be using as a home for the projects and coursework I do in **STATS220** this semester 😄
 
+# About me and this repo
 ## Please follow along to witness:
 1. My journey as I learn more about coding! I have some prior experience using R and HTML, but there is always more to learn
 2. Cool things I make during the semester
